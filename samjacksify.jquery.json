@@ -1,0 +1,31 @@
+{
+    "name":"samjacksify",
+    "title":"SamJacksify",
+    "description":"Make pages appear as though a Samuel L Jackson character was responsible for all the copy.",
+    "keywords":"fun",
+    "version":"0.0.1",
+    "author":{
+        "name":"Clint Parker",
+        "url":"http://www.clintparker.com"
+    },
+    "maintainers": [
+        {
+            "name":"Clint Parker",
+            "eamil":"clintcparker@gmail.com"
+        }
+    ],
+    "licenses": [
+        {
+          "type": "WTFPL",
+          "url": "http://www.wtfpl.net/"
+        }
+    ],
+    "bugs":"https://github.com/clintcparker/SamJacksify/issues",
+    "homepage":"https://github.com/clintcparker/SamJacksify",
+    "docs":"https://github.com/clintcparker/SamJacksify",
+    "download":"https://github.com/clintcparker/SamJacksify",
+    "dependencies":{
+        "jquery":">=1.7"
+    }
+    
+}
