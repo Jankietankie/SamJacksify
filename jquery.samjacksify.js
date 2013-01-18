@@ -19,11 +19,10 @@
                 var kid = kids[i];
                 if (kid.nodeType == 3) {
                     var oldVal = kid.nodeValue,
-                        tmpVal,
                         newVal;
-                    tmpVal = oldVal.replace(/!/g, ", MOTHERFUCKER!");
-                    newVal = tmpVal.replace(/\?/g, ", MOTHERFUCKER!?");
-                    newVal = tmpVal.replace(/\./g, ", MOTHERFUCKER!");
+                    newVal = oldVal.replace(/!/g, ", MOTHERFUCKER!");
+                    newVal = newVal.replace(/\?/g, ", MOTHERFUCKER!?");
+                    newVal = newVal.replace(/\./g, ", MOTHERFUCKER!");
                     kid.nodeValue = newVal;
                 }
             }
