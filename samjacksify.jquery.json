@@ -3,7 +3,7 @@
     "title":"SamJacksify",
     "description":"Make pages appear as though a Samuel L Jackson character was responsible for all the copy.",
     "keywords":["fun"],
-    "version":"0.1.2",
+    "version":"0.1.3",
     "author":{
         "name":"Clint Parker",
         "url":"http://www.clintparker.com"
@@ -21,7 +21,7 @@
         }
     ],
     "bugs":"https://github.com/clintcparker/SamJacksify/issues",
-    "homepage":"https://github.com/clintcparker/SamJacksify",
+    "homepage":"http://clintcparker.github.com/SamJacksify/",
     "docs":"https://github.com/clintcparker/SamJacksify",
     "download":"https://github.com/clintcparker/SamJacksify",
     "dependencies":{
