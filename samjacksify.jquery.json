@@ -2,16 +2,18 @@
     "name":"samjacksify",
     "title":"SamJacksify",
     "description":"Make pages appear as though a Samuel L Jackson character was responsible for all the copy.",
-    "keywords":["fun"],
+    "keywords":["fun", "clintcparker"],
     "version":"0.1.3",
     "author":{
         "name":"Clint Parker",
-        "url":"http://www.clintparker.com"
+        "email":"clintcparker@gmail.com",
+        "url":"http://clintparker.com"
     },
     "maintainers": [
         {
             "name":"Clint Parker",
-            "eamil":"clintcparker@gmail.com"
+            "email":"clintcparker@gmail.com",
+            "url":"http://clintparker.com"
         }
     ],
     "licenses": [
